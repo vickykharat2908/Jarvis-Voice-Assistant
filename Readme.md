@@ -1,4 +1,4 @@
-# Jarvis Voice Assistant 🗣️
+# Jarvis Voice Assistant 
 
 ## About the Project
 
